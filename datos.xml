@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <datos>
+        <estudiante id="1">
+            <Cédula>1316556743</Cédula>
+            <Nombre>Bryan</Nombre>
+            <Dirección>Barrio los Bosques - Divino niño</Dirección>
+            <Teléfono>0980518380</Teléfono>
+            <Correo>bryanmaciasfaubla11@gmail.com</Correo>
+            <Curso>Quinto</Curso>
+            <Paralelo>A</Paralelo>
+        </estudiante>
+        <estudiante id="2">
+            <Cédula>1314456781</Cédula>
+            <Nombre>Kevin</Nombre>
+            <Dirección>El Prado, Manta</Dirección>
+            <Teléfono>0934568734</Teléfono>
+            <Correo>kevinm@hotmail.com</Correo>
+            <Curso>Sexto</Curso>
+            <Paralelo>B</Paralelo>
+        </estudiante>
+        <estudiante id="3">
+            <Cédula>1345312350</Cédula>
+            <Nombre>Jose</Nombre>
+            <Dirección>Divino Niño, Manta</Dirección>
+            <Teléfono>0921346754</Teléfono>
+            <Correo>jose@gmail.com</Correo>
+            <Curso>Quinto</Curso>
+            <Paralelo>A</Paralelo>
+        </estudiante>
+        <estudiante id="4">
+            <Cédula>1323658718</Cédula>
+            <Nombre>Rita</Nombre>
+            <Dirección>Ursa, Manta</Dirección>
+            <Teléfono>0945258607</Teléfono>
+            <Correo>rita@hotmail.com</Correo>
+            <Curso>Sexto</Curso>
+            <Paralelo>A</Paralelo>
+        </estudiante>
+        <estudiante id="5">
+            <Cédula>1334526789</Cédula>
+            <Nombre>Alexander</Nombre>
+            <Dirección>Avenida Ortiz, Manta</Dirección>
+            <Teléfono>0989051345</Teléfono>
+            <Correo>alexander@gmail.com</Correo>
+            <Curso>Sexto</Curso>
+            <Paralelo>B</Paralelo>
+        </estudiante>
+        <estudiante id="6">
+            <Cédula>1367845321</Cédula>
+            <Nombre>Ámbar</Nombre>
+            <Dirección>Avenida 24, Manta</Dirección>
+            <Teléfono>0986741364</Teléfono>
+            <Correo>ambar@gmail.com</Correo>
+            <Curso>Sexto</Curso>
+            <Paralelo>B</Paralelo>
+        </estudiante>
+        <estudiante id="7">
+            <Cédula>1323098674</Cédula>
+            <Nombre>Daniela</Nombre>
+            <Dirección>Avenida Universitaria, Manta</Dirección>
+            <Teléfono>0967895467</Teléfono>
+            <Correo>daniela@hotmail.com</Correo>
+            <Curso>Quinto</Curso>
+            <Paralelo>A</Paralelo>
+        </estudiante>
+        <estudiante id="8">
+            <Cédula>1345235708</Cédula>
+            <Nombre>Steven</Nombre>
+            <Dirección>El Palmar, Manta</Dirección>
+            <Teléfono>0989763461</Teléfono>
+            <Correo>steven@gmail.com</Correo>
+            <Curso>Sexto</Curso>
+            <Paralelo>B</Paralelo>
+        </estudiante>
+        <estudiante id="9">
+            <Cédula>1367549785</Cédula>
+            <Nombre>Jonas</Nombre>
+            <Dirección>Los Esteros, Manta</Dirección>
+            <Teléfono>0945678419</Teléfono>
+            <Correo>jonas@hotmail.com</Correo>
+            <Curso>Quinto</Curso>
+            <Paralelo>B</Paralelo>
+        </estudiante>
+        <estudiante id="10">
+            <Cédula>1334564367</Cédula>
+            <Nombre>Selina</Nombre>
+            <Dirección>Avenida 108, Manta</Dirección>
+            <Teléfono>0969543518</Teléfono>
+            <Correo>selina@gmail.com</Correo>
+            <Curso>Sexto</Curso>
+            <Paralelo>A</Paralelo>
+        </estudiante>
+    </datos>
